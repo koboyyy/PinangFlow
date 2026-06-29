@@ -1,0 +1,36 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio 3
+*.ap_
+
+# NDK
+obj/
+
+# Gradle
+.gradle/
+build/
+app/build/
+*/build/
+
+# Mac
+.DS_Store
+
+# Google Services
+google-services.json
+
+# Local Env
+.env
