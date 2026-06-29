@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center of the icon is (54, 54) -->
+    <!-- A flowing wave representation for "Flow" -->
+    <path
+        android:fillColor="#E2F4C5"
+        android:pathData="M30,50 C40,40 50,60 60,50 C70,40 80,60 90,50 L90,90 L30,90 Z"
+        android:fillAlpha="0.15" />
+    
+    <!-- An elegant palm leaf structure -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,25 C45,35 45,55 54,75 C63,55 63,35 54,25 Z" />
+    <path
+        android:fillColor="#8FE388"
+        android:pathData="M54,25 C35,38 38,58 54,65 C45,58 45,45 54,25 Z" />
+    <path
+        android:fillColor="#B7F5A8"
+        android:pathData="M54,25 C73,38 70,58 54,65 C63,58 63,45 54,25 Z" />
+        
+    <!-- A glowing accent representing Pinang (golden-orange nut) -->
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M54,62 C50,62 47,65 47,69 C47,75 54,83 54,83 C54,83 61,75 61,69 C61,65 58,62 54,62 Z" />
+    <!-- Highlight on the orange nut -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M52,65 C50.5,65 49,66.5 49,68 C49,69 50,71 52,71 C53.5,71 55,69.5 55,68 C55,66.5 53.5,65 52,65 Z" />
+</vector>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PinangFlow</string>
+
+    <!-- Navigation -->
+    <string name="nav_beranda">Beranda</string>
+    <string name="nav_petani">Petani</string>
+    <string name="nav_gudang">Gudang</string>
+    <string name="nav_laporan">Laporan</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">Halo, Pengepul!</string>
+    <string name="dashboard_price_title">Harga Harian Pinang</string>
+    <string name="dashboard_summary">Ringkasan</string>
+    <string name="dashboard_transaction">Transaksi</string>
+    <string name="dashboard_view_all">Lihat Semua</string>
+    <string name="dashboard_weigh_button">TIMBANG &amp; GRADING BARU</string>
+
+    <!-- Summary -->
+    <string name="summary_wet_stock">Total Stok Basah</string>
+    <string name="summary_dry_stock">Total Stok Kering</string>
+    <string name="summary_kasbon">Aktif Kasbon</string>
+    <string name="summary_shrinkage">Penyusutan</string>
+
+    <!-- Farmers -->
+    <string name="farmers_title">Data Petani</string>
+    <string name="farmers_search_hint">Cari nama atau ID petani…</string>
+    <string name="farmer_profile_title">Profil Petani</string>
+    <string name="farmer_total_delivered">Total Disetor</string>
+    <string name="farmer_kasbon_remaining">Sisa Kasbon</string>
+    <string name="farmer_new_kasbon">Kasbon Baru</string>
+    <string name="farmer_receive_payment">Terima Bayar</string>
+    <string name="farmer_transaction_history">Riwayat Transaksi Terakhir</string>
+
+    <!-- Warehouse -->
+    <string name="warehouse_title">Manajemen Gudang</string>
+    <string name="warehouse_subtitle">Monitoring Jemuran &amp; Stok</string>
+    <string name="warehouse_tab_drying">Sedang Dijemur</string>
+    <string name="warehouse_tab_completed">Riwayat Selesai</string>
+    <string name="warehouse_input_dry_weight">Input Berat Setelah Kering (Kg)</string>
+    <string name="warehouse_auto_calc">Hasil Kalkulasi Otomatis</string>
+    <string name="warehouse_shrinkage_estimate">Estimasi Penyusutan</string>
+    <string name="warehouse_weight_loss">Kehilangan Berat</string>
+    <string name="warehouse_save_button">Simpan &amp; Update Stok Kering</string>
+
+    <!-- Status -->
+    <string name="status_active">Aktif</string>
+    <string name="status_inactive">Non-aktif</string>
+    <string name="status_completed">Selesai</string>
+    <string name="status_processing">Proses Pengeringan</string>
+
+    <!-- Reports -->
+    <string name="reports_title">Laporan</string>
+    <string name="reports_under_development">Dalam Pengembangan</string>
+    <string name="reports_coming_soon">Fitur laporan sedang dikembangkan.\nNantikan update selanjutnya!</string>
+
+    <!-- Auth / Google Sign-In -->
+    <string name="default_web_client_id">752315426949-d9bvof64b84i9tf1hm2kulvhmquu5chl.apps.googleusercontent.com</string>
+</resources>
